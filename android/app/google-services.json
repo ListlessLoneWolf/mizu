@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "593948653492",
+    "project_id": "sihwaterproject",
+    "storage_bucket": "sihwaterproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593948653492:android:24accda30863adfb52a4e1",
+        "android_client_info": {
+          "package_name": "com.dhara.mizu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC5KNFJpRJ-W1RmJ4oBmoUsQ-UPY0pqn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593948653492:android:cc64621c421f726952a4e1",
+        "android_client_info": {
+          "package_name": "com.example.mizu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC5KNFJpRJ-W1RmJ4oBmoUsQ-UPY0pqn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
